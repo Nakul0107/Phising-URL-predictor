@@ -7,20 +7,9 @@ GDSC.ipynb - Main notebook with code, visualizations, and explanations.
 
 Data preprocessing, model training, evaluation, and result analysis.
 
-Features
-Beginner-friendly explanations
+Features:
+  Beginner-friendly explanations
 
-Step-by-step machine learning workflow
+  Step-by-step machine learning workflow
 
-Use of popular Python libraries (NumPy, Pandas, Scikit-Learn, Matplotlib)
-
-Requirements
-Python 3.x
-
-Jupyter Notebook
-
-Required Libraries:
-
-bash
-Copy
-Edit
+  Use of popular Python libraries (NumPy, Pandas, Scikit-Learn, Matplotlib)
